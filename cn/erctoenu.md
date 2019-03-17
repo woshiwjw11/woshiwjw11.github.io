@@ -18,7 +18,7 @@
 
 ## 第三步
 
-打开mew签名消息的网站，其网址是:https://www.myetherwallet.com/signmsg.html 
+打开mew签名消息的网站，其网址是:https://vintage.myetherwallet.com/signmsg.html
 
 在这里首先要将你的钱包导入到这个网站才能进行签名。
 
