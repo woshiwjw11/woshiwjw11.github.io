@@ -40,3 +40,4 @@ https://faces.enumivo.com 这是这次测试的网址，首先进入该网址，
 
  
 
+![face6](.\face6.png)这是群友的一张翻译过的要求图仅供参考
